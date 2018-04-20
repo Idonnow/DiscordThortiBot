@@ -1,0 +1,8 @@
+{
+  "name": "ThortiBot",
+  "version": "0.0.1",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "Thortiflette",
+  "dependencies": {}
+}

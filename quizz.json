@@ -1,0 +1,40 @@
+{
+  "quizz" : [
+    {
+      "Q" : "Quel est le vrai métier de Daredevil le super héros Marvel ?",
+      "A" : "Avocat"
+    },
+    {
+      "Q" : "Quel est le véritable nom de Crane rouge?",
+      "A" : "Johann Smith"
+    },
+    {
+      "Q" : "En quelle matiere est recouvert le squelette de Wolverine?",
+      "A" : "Adamantium"
+    },
+    {
+      "Q" : "En quelle matiere est fait le bouclier de Captain America?",
+      "A" : "Vibranium"
+    },
+    {
+      "Q" : "Qui est le createur de Spiderman?",
+      "A" : "Stan Lee"
+    },
+    {
+      "Q" : "Quel grand entrepreneur apparait dans le film Iran Man 2?",
+      "A" : "Elon Musk"
+    },
+    {
+      "Q" : "Quel est le nom du réalisateur du film Avenger en 2012?",
+      "A" : "Joss Whedon"
+    },
+    {
+      "Q" : "Quel est le nom du marteau de Thor?",
+      "A" : "Mjolnir"
+    },
+    {
+      "Q" : "Qui est le roi des Inhumains",
+      "A" : "Fléche noir"
+    }
+  ]
+}

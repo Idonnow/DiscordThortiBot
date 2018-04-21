@@ -35,6 +35,170 @@
     {
       "Q" : "Qui est le roi des Inhumains",
       "A" : "Fléche noir"
+    },
+    {
+      "Q" : "Quel super-héros a ouvert le MCU ?",
+      "A" : "Iron Man"
+    },
+    {
+      "Q" : "Dans quel film est arrivée la Sorcière rouge ?",
+      "A" : "Avengers 2"
+    },
+    {
+      "Q" : "Lors de la sortie du film Ant-Man, dans combien de films avait déjà joué Natasha Romanoff (MCU) ?",
+      "A" : "4"
+    },
+    {
+      "Q" : "Pendant quelle guerre mondiale Steve Rogers devient-il Captain America ?",
+      "A" : "Seconde Guerre mondiale"
+    },
+    {
+      "Q" : "Quel est le nom du directeur du S.H.I.E.L.D (De Iron Man à Captain America 2) ?",
+      "A" : "Nick Fury"
+    },
+    {
+      "Q" : "A partir de quel film apparait Vision ?",
+      "A" : "Avengers 2"
+    },
+    {
+      "Q" : "Qui est la Sorcière rouge pour Vif-Argent dans le MCU ?",
+      "A" : "Sa soeur"
+    },
+    {
+      "Q" : "Dans le MCU qui crée Ultron",
+      "A" : "Tony Stark et Bruce Banner"
+    },
+    {
+      "Q" : "De Iron Man 1 à Captain America 3, dans combien de film peut-on voir Tony Stark ?",
+      "A" : "5"
+    },
+    {
+      "Q" : "Dans Ant-Man, qui est la nouvelle Guêpe ?",
+      "A" : "Hope Pym"
+    },
+    {
+      "Q" : "Quel est le nom de l'ennemi principal de Dardevil dans la série éponyme sur Netflix?",
+      "A" : "Wilson Fisk"
+    },
+    {
+      "Q" : "Quel Stark peut-on voir dans la saison 1 de L'Agent Carter ?",
+      "A" : "Howard Stark"
+    },
+    {
+      "Q" : "Quel est le véritable nom de Deadpool",
+      "A" : "Wade Wilson"
+    },
+    {
+      "Q" : "Quel est le nom du professeur chef des Xmen",
+      "A" : "Charles Xavier"
+    },
+    {
+      "Q" : "Quel est le nom de l'interpréte de Wolverine",
+      "A" : "Hugh Jackman"
+    },
+    {
+      "Q" : "Quel acteur à joué deux super héros Marvel? ",
+      "A" : "Chris Evans"
+    },
+    {
+      "Q" : "Quel est le lien de parenté entre Hulk et Miss Hulk?",
+      "A" : "cousins"
+    },
+    {
+      "Q" : "Quel super héros emblématique est mort dans la série de comics Civil War?",
+      "A" : "Spiderman"
+    },
+    {
+      "Q" : "Qu'étudiait Steve Rogers avant de se porter volontaire dans l'opération renaissance ?",
+      "A" : "Beaux Arts"
+    },
+    {
+      "Q" : "De quelle couleur est Hulk Rouge?",
+      "A" : "Rouge"
+    },
+    {
+      "Q" : "Combien de tentacule posséde Docteur Octopus ?",
+      "A" : "4"
+    },
+    {
+      "Q" : "Par quelle actrice est jouée Mystique dans les film Marvel?",
+      "A" : "Jennifer Lawrence"
+    },
+    {
+      "Q" : "Quel rôle joue Scarlett Johansson dans le MCU?",
+      "A" : "Veuve noire"
+    },
+    {
+      "Q" : "Quel est le nom du roi de l'atlantide dans l'univer Marvel",
+      "A" : "Namor"
+    },
+    {
+      "Q" : "Par qui est controlé le corp de Spiderman dans la série de comics Superior spiderman?",
+      "A" : "Docteur Octopus"
+    },
+    {
+      "Q" : "Quel est le nom du personnage des film Marvel qui à pour pouvoir de tirer des fléches avec un arc?",
+      "A" : "Hawkeye"
+    },
+    {
+      "Q" : "Quel était le métier du Docteur Strange avant d'être un maitre de l'ésotérisme?",
+      "A" : "Chirurgien"
+    },
+    {
+      "Q" : "De quelle planéte est originaire Star-Lord?",
+      "A" : "Terre"
+    },
+    {
+      "Q" : "De quelle race est Ronan l'Accusateur?",
+      "A" : "Kree"
+    },
+    {
+      "Q" : "Quelle est le nom de la pierre d'infinité récupéré par les Nova Corp dans le film Les Gardien de la galaxie?",
+      "A" : "Pierre de Pouvoir"
+    },
+    {
+      "Q" : "Quel est le nom du chef des ravageurs?",
+      "A" : "Yundu"
+    },
+    {
+      "Q" : "Quel est le nom de l'enemie de Jessica Jones dans la premiere saison de sa série Netflix?",
+      "A" : "Kilgrave"
+    },
+    {
+      "Q" : "De quel pays Black Panther est-il le roi?",
+      "A" : "Wakanda"
+    },
+    {
+      "Q" : "Comment se nomme l'armure anti Hulk d'Iron Man?",
+      "A" : "HulkBuster"
+    },
+    {
+      "Q" : "Quel acteur joue le rôle de Magnéto (vieux) dans les film Marvel?",
+      "A" : "Ian McKellen"
+    },
+    {
+      "Q" : "Qui est le pére de Loki et Thor?",
+      "A" : "Odin"
+    },
+    {
+      "Q" : "Quel est le nom de l'arbre monde d'aprés la mythologie Nordique (Thor)",
+      "A" : "Ygdrasil"
+    },
+    {
+      "Q" : "Quel est le nom du méchant de Avenger Infinity War?",
+      "A" : "Thanos"
+    },
+    {
+      "Q" : "Quel est le méchant du jeu Marvel Strike Force?",
+      "A" : "Ultimus"
+    },
+    {
+      "Q" : "Qui c'est le meilleur?",
+      "A" : "Thortiflette"
+    },
+    {
+      "Q" : "Quel est le premier amour de Spiderman?",
+      "A" : "Gwen Stacy"
     }
   ]
 }

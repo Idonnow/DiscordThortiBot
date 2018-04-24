@@ -3,7 +3,7 @@ var logger = require('winston');
 var auth = require('./auth.json');
 var quizz = require('./quizz.json');
 var timer = require('timers');
-var maxQuestion = 9;
+var maxQuestion = 50;
 var players = new Array();
 var playersScore = new Array();
 var playersNb = 0;
@@ -104,6 +104,24 @@ function answerVerif (channelID,user,message)
         });
         playersScore[index]++;
         flagQ = false;
+      }
+    }
+  }
+  else if (message == "Je t'aime Thortibot")
+  {
+    if (user == "Thortiflette")
+    {
+      bot.sendMessage({
+          to: channelID,
+          message: "Moi aussi je vous aime maitre @Thortiflette"
+      });
+    }
+    else {
+      {
+        bot.sendMessage({
+            to: channelID,
+            message: "Désolé @" + user + " je n'aime que mon maitre @Thortiflette"
+        });
       }
     }
   }

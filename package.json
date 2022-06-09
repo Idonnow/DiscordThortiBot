@@ -6,7 +6,7 @@
   "author": "Thortiflette",
   "dependencies": {
     "discord.io": "^2.5.3",
-    "json": "^9.0.6",
+    "json": "^10.0.0",
     "winston": "^2.4.1"
   }
 }
